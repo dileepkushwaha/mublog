@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dileep Kushwaha's μ-blog",
+    "home_page_url": "https://dileepkushwaha.com/",
+    "feed_url": "https://dileepkushwaha.com/feed.json",
+    "description": "Dileep Kushwaha's μ-blog.",
+    "icon": "https://dileepkushwaha.com/apple-touch-icon.png",
+    "favicon": "https://dileepkushwaha.com/assets/images/fav32.png",
+    "expired": false,
+    
+    "author": "Dileep Kushwaha",
+    
+"items": [
+    
+        {
+            "id": "https://dileepkushwaha.com/2021/01/23/status.html",
+            "title": "",
+            "summary": null,
+            "content_text": "Hello World!😃",
+            "content_html": "<p>Hello World!😃</p>",
+            "url": "https://dileepkushwaha.com/2021/01/23/status.html",
+            
+            
+            
+            
+            
+            "date_published": "2021-01-23T19:00:00+05:30",
+            "date_modified": "2021-01-23T19:00:00+05:30",
+            
+                "author": 
+                "Dileep Kushwaha"
+                
+            
+        }
+    
+    ]
+}

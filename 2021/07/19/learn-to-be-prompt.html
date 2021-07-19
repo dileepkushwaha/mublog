@@ -17,7 +17,7 @@
   <meta content="Dileep Kushwaha" name="author">
   <meta content="Dileep Kushwaha's μ-blog." name="description">
   
-  <title>Dileep Kushwaha's μ-blog</title>
+  <title>Dileep Kushwaha's μ-blog - Practice to be prompt</title>
   
   <link href="/assets/css/style.css" rel="stylesheet">
   <link href="/assets/css/highlight.css" rel="stylesheet">
@@ -35,6 +35,8 @@
 <body>
   <nav class="main-nav">
   
+  <a class="normal" href="/"> <span class="arrow">←</span> Home</a>
+  
   
   <a href="/about">About</a>
   <a href="/now">Now</a>
@@ -48,64 +50,107 @@
 </nav>
 
   
-  <div class="profile">
   <section id="wrapper">
-    <header>
-      <a href="/about">
-        <img id="avatar" src="/assets/images/avatar.png"/>
-      </a>
-      <h1>Dileep Kushwaha</h1>
-      <h4>Dileep Kushwaha's μ-blog.</h4>
-    </header>
+    <article class="h-entry post">
+  <header>
+    <ul class="h-card p-author author hidden">
+      <li>
+        <a class="u-url" href="/" rel="me"><span class="p-author">Dileep Kushwaha</span></a>
+      </li>
+      <li>
+        <img class="u-photo" src="/assets/images/avatar.png" alt="">
+      </li>
+      <li>
+        <a href="mailto:dileepkushwaha@hotmail.com" class="u-email" rel="me">dileepkushwaha@hotmail.com</a>
+      </li>
+    </ul>
+    <h1 class="p-name">Practice to be prompt</h1>
+    <h2 class="headline">
+      <time class="dt-published" datetime="2021-07-19 07:44:00 +0530">
+        <a class="u-url dates" href="/2021/07/19/learn-to-be-prompt.html">July 19, 2021</a>
+      </time>
+    </h2>
+  </header>
+  <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+  <section class="e-content post-body">
+      <p>Practice to be prompt 🦟</p>
+
   </section>
+  <!--<script id="webmention-hosted">
+    (function () {
+    var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+    url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+    url = url && url[0] ? url[0].href : false;
+    sn.type = "text/javascript"; sn.async = true;
+    sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+    s.parentNode.insertBefore(sn, s);
+    }());
+    </script>
+  -->
+</article>
+<section id="post-meta" class="clearfix">
+  <a href="/">
+    <img class="avatar" src="/assets/images/avatar.png">
+    <div>
+      <span class="dark">Dileep Kushwaha</span>
+      <span>Dileep Kushwaha's μ-blog.</span>
+    </div>
+  </a>
+</section>
+<section id="webmentions" class="entry__comments dont-read">
+<h2>Webmentions</h3>
+<div class="webmentions">
+  <p class="webmentions__not-found">No webmentions were found.</p>
+</div>
+</section>
+<!--<span class="webmention-count">0</span>
+<div class="webmentions webmentions--likes">
+  <p class="webmentions__not-found">No likes were found.</p>
+</div>
+<div class="webmentions webmentions--reposts">
+  <p class="webmentions__not-found">No reposts were found.</p>
 </div>
 
-  
-  <section id="wrapper">
-    <ul id="post-list">
-  
-  <li>
-    <article>
-      
-      <header>
-        <h2><a href="/2021/07/19/learn-to-be-prompt.html">Practice to be prompt</a></h2>
-      </header>
-      <section class="post-body">
-        <p>Practice to be prompt 🦟</p>
-
-      </section>
-      
-      <a href="/2021/07/19/learn-to-be-prompt.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2021-07-19 07:44:00 +0530" class="dt-published">→ 7:44 AM, Jul 19</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <section class="post-body">
-        <p>Hello World!😃</p>
-
-      </section>
-      
-      <a href="/2021/01/23/status.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2021-01-23 19:00:00 +0530" class="dt-published">→ 7:00 PM, Jan 23</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-</ul>
-
-
-
-
+-->
+<form
+  id="webMentionForm"
+  action="https://webmention.io/dileepkushwaha.com/webmention"
+  method="POST">
+  <input
+    type="hidden"
+    name="target"
+    .value="${this.metadata.permalink}" />
+  <label for="source">
+    I support
+    <a href="https://indieweb.org/Webmention">WebMentions</a>. Paste
+ and send your URL here: 
+  </label>
+  <br> 
+  <br> 
+  <input
+    type="url"
+    name="source"
+    placeholder="https://your-amazing-response-url-here/" 
+    id="webMentionSource" 
+    /> &nbsp;
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+     &nbsp; 
+  <button class="btn btn-secondary float-right" @click="${e => this.__submitWebMention(e)}" >  
+    🏄 Send Webmention 
+  </button>
+ </form>
   </section>
   <footer id="footer">
     <section id="wrapper">

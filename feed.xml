@@ -3,17 +3,17 @@
   <channel>
     <title>Dileep Kushwaha's μ-blog</title>
     <description>Dileep Kushwaha's μ-blog.</description>
-    <link>https://dileepkushwaha.com</link>
-    <pubDate>Mon, 25 Jan 2021 20:29:53 +0530</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2021 20:29:53 +0530</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <pubDate>Mon, 19 Jul 2021 06:36:33 +0530</pubDate>
+    <lastBuildDate>Mon, 19 Jul 2021 06:36:33 +0530</lastBuildDate>
     
       <item>
         <title></title>
         <description>&lt;p&gt;Hello World!😃&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jan 2021 19:00:00 +0530</pubDate>
-        <link>https://dileepkushwaha.com/2021/01/23/status.html</link>
-        <guid isPermaLink="true">https://dileepkushwaha.com/2021/01/23/status.html</guid>
+        <link>http://localhost:4000/2021/01/23/status.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/23/status.html</guid>
       </item>
     
   </channel>

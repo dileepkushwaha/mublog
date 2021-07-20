@@ -3,17 +3,17 @@
   <channel>
     <title>Dileep Kushwaha's μ-blog</title>
     <description>Dileep Kushwaha's μ-blog.</description>
-    <link>http://localhost:4000</link>
-    <pubDate>Mon, 19 Jul 2021 07:48:57 +0530</pubDate>
-    <lastBuildDate>Mon, 19 Jul 2021 07:48:57 +0530</lastBuildDate>
+    <link>https://dileepkushwaha.com</link>
+    <pubDate>Tue, 20 Jul 2021 09:20:39 +0530</pubDate>
+    <lastBuildDate>Tue, 20 Jul 2021 09:20:39 +0530</lastBuildDate>
     
       <item>
         <title>Practice to be prompt</title>
         <description>&lt;p&gt;Practice to be prompt 🦟&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Jul 2021 07:44:00 +0530</pubDate>
-        <link>http://localhost:4000/2021/07/19/learn-to-be-prompt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/07/19/learn-to-be-prompt.html</guid>
+        <link>https://dileepkushwaha.com/2021/07/19/learn-to-be-prompt.html</link>
+        <guid isPermaLink="true">https://dileepkushwaha.com/2021/07/19/learn-to-be-prompt.html</guid>
       </item>
     
       <item>
@@ -21,8 +21,8 @@
         <description>&lt;p&gt;Hello World!😃&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jan 2021 19:00:00 +0530</pubDate>
-        <link>http://localhost:4000/2021/01/23/status.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/23/status.html</guid>
+        <link>https://dileepkushwaha.com/2021/01/23/status.html</link>
+        <guid isPermaLink="true">https://dileepkushwaha.com/2021/01/23/status.html</guid>
       </item>
     
   </channel>

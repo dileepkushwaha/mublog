@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2021/01/23/status.html</loc>
+<loc>https://dileepkushwaha.com/2021/01/23/status.html</loc>
 <lastmod>2021-01-23T19:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2021/07/19/learn-to-be-prompt.html</loc>
+<loc>https://dileepkushwaha.com/2021/07/19/learn-to-be-prompt.html</loc>
 <lastmod>2021-07-19T07:44:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>https://dileepkushwaha.com/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://dileepkushwaha.com/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/now/</loc>
+<loc>https://dileepkushwaha.com/now/</loc>
 </url>
 </urlset>

@@ -1,11 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Dileep Kushwaha's μ-blog",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "home_page_url": "https://dileepkushwaha.com/",
+    "feed_url": "https://dileepkushwaha.com/feed.json",
     "description": "Dileep Kushwaha's μ-blog.",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/assets/images/fav32.png",
+    "icon": "https://dileepkushwaha.com/apple-touch-icon.png",
+    "favicon": "https://dileepkushwaha.com/assets/images/fav32.png",
     "expired": false,
     
     "author": "Dileep Kushwaha",
@@ -13,12 +13,12 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2021/07/19/learn-to-be-prompt.html",
+            "id": "https://dileepkushwaha.com/2021/07/19/learn-to-be-prompt.html",
             "title": "Practice to be prompt",
             "summary": null,
             "content_text": "Practice to be prompt 🦟",
             "content_html": "<p>Practice to be prompt 🦟</p>",
-            "url": "http://localhost:4000/2021/07/19/learn-to-be-prompt.html",
+            "url": "https://dileepkushwaha.com/2021/07/19/learn-to-be-prompt.html",
             
             
             
@@ -34,12 +34,12 @@
         },
     
         {
-            "id": "http://localhost:4000/2021/01/23/status.html",
+            "id": "https://dileepkushwaha.com/2021/01/23/status.html",
             "title": "",
             "summary": null,
             "content_text": "Hello World!😃",
             "content_html": "<p>Hello World!😃</p>",
-            "url": "http://localhost:4000/2021/01/23/status.html",
+            "url": "https://dileepkushwaha.com/2021/01/23/status.html",
             
             
             
